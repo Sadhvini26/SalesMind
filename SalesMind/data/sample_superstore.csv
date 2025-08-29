@@ -1,0 +1,26 @@
+order_id,order_date,ship_date,customer_id,customer_name,segment,country,city,state,region,product_id,category,sub_category,product_name,sales,quantity,discount,profit,return_flag,store_id
+ORD-001,2023-01-15,2023-01-18,CUST-001,John Smith,Consumer,USA,New York,NY,East,PROD-001,Technology,Phones,iPhone 14,999.99,1,0.05,150.00,False,STORE-001
+ORD-002,2023-01-16,2023-01-19,CUST-002,Jane Doe,Corporate,USA,Los Angeles,CA,West,PROD-002,Office Supplies,Binders,3-Ring Binder,24.99,3,0.10,5.50,False,STORE-002
+ORD-003,2023-01-17,2023-01-20,CUST-003,Bob Johnson,Home Office,USA,Chicago,IL,Central,PROD-003,Furniture,Chairs,Office Chair,299.99,1,0.00,45.00,False,STORE-003
+ORD-004,2023-01-18,2023-01-21,CUST-001,John Smith,Consumer,USA,New York,NY,East,PROD-004,Technology,Laptops,MacBook Pro,2499.99,1,0.15,300.00,False,STORE-001
+ORD-005,2023-01-19,2023-01-22,CUST-004,Alice Brown,Consumer,USA,Miami,FL,South,PROD-005,Office Supplies,Paper,Copy Paper,19.99,5,0.05,2.00,False,STORE-004
+ORD-006,2023-01-20,2023-01-23,CUST-005,Charlie Wilson,Corporate,USA,Seattle,WA,West,PROD-006,Furniture,Tables,Conference Table,899.99,1,0.20,100.00,False,STORE-005
+ORD-007,2023-01-21,2023-01-24,CUST-002,Jane Doe,Corporate,USA,Los Angeles,CA,West,PROD-007,Technology,Accessories,Wireless Mouse,49.99,2,0.00,10.00,False,STORE-002
+ORD-008,2023-01-22,2023-01-25,CUST-006,David Lee,Home Office,USA,Austin,TX,Central,PROD-008,Office Supplies,Storage,Filing Cabinet,199.99,1,0.10,25.00,False,STORE-006
+ORD-009,2023-01-23,2023-01-26,CUST-007,Emma Davis,Consumer,USA,Boston,MA,East,PROD-009,Furniture,Bookcases,Wooden Bookcase,149.99,1,0.00,20.00,False,STORE-007
+ORD-010,2023-01-24,2023-01-27,CUST-008,Frank Miller,Corporate,USA,Denver,CO,Central,PROD-010,Technology,Monitors,4K Monitor,349.99,2,0.12,50.00,False,STORE-008
+ORD-011,2023-02-01,2023-02-04,CUST-009,Grace Taylor,Consumer,USA,Portland,OR,West,PROD-001,Technology,Phones,iPhone 14,999.99,1,0.08,140.00,False,STORE-009
+ORD-012,2023-02-02,2023-02-05,CUST-010,Henry Clark,Home Office,USA,Atlanta,GA,South,PROD-011,Office Supplies,Supplies,Staplers,14.99,4,0.00,3.00,False,STORE-010
+ORD-013,2023-02-03,2023-02-06,CUST-003,Bob Johnson,Home Office,USA,Chicago,IL,Central,PROD-012,Furniture,Desks,Standing Desk,599.99,1,0.15,80.00,False,STORE-003
+ORD-014,2023-02-04,2023-02-07,CUST-011,Ivy Rodriguez,Consumer,USA,Phoenix,AZ,West,PROD-013,Technology,Software,Office Suite,199.99,1,0.05,30.00,False,STORE-011
+ORD-015,2023-02-05,2023-02-08,CUST-012,Jack Anderson,Corporate,USA,Philadelphia,PA,East,PROD-014,Office Supplies,Labels,Address Labels,9.99,10,0.20,1.50,False,STORE-012
+ORD-016,2023-02-15,2023-02-18,CUST-013,Karen White,Consumer,USA,San Diego,CA,West,PROD-015,Furniture,Storage,Storage Cabinet,249.99,1,0.10,35.00,False,STORE-013
+ORD-017,2023-02-16,2023-02-19,CUST-014,Liam Harris,Home Office,USA,Dallas,TX,Central,PROD-016,Technology,Printers,Laser Printer,299.99,1,0.00,45.00,False,STORE-014
+ORD-018,2023-02-17,2023-02-20,CUST-015,Mia Thompson,Corporate,USA,San Francisco,CA,West,PROD-017,Office Supplies,Art,Markers,24.99,2,0.15,4.00,False,STORE-015
+ORD-019,2023-02-18,2023-02-21,CUST-016,Noah Garcia,Consumer,USA,Las Vegas,NV,West,PROD-018,Furniture,Chairs,Gaming Chair,399.99,1,0.05,60.00,False,STORE-016
+ORD-020,2023-02-19,2023-02-22,CUST-017,Olivia Martinez,Home Office,USA,Minneapolis,MN,Central,PROD-019,Technology,Tablets,iPad Air,699.99,1,0.10,100.00,False,STORE-017
+ORD-021,2023-03-01,2023-03-04,CUST-018,Paul Jackson,Corporate,USA,Tampa,FL,South,PROD-020,Office Supplies,Fasteners,Paper Clips,4.99,20,0.00,1.00,False,STORE-018
+ORD-022,2023-03-02,2023-03-05,CUST-019,Quinn Wilson,Consumer,USA,Nashville,TN,South,PROD-021,Furniture,Tables,Coffee Table,179.99,1,0.12,25.00,False,STORE-019
+ORD-023,2023-03-03,2023-03-06,CUST-020,Rachel Adams,Home Office,USA,Salt Lake City,UT,West,PROD-022,Technology,Storage,External Hard Drive,129.99,1,0.00,20.00,False,STORE-020
+ORD-024,2023-03-04,2023-03-07,CUST-001,John Smith,Consumer,USA,New York,NY,East,PROD-023,Office Supplies,Envelopes,Manila Envelopes,12.99,5,0.05,2.00,False,STORE-001
+ORD-025,2023-03-05,2023-03-08,CUST-021,Steve Brown,Corporate,USA,Sacramento,CA,West,PROD-024,Furniture,Furnishings,Desk Lamp,79.99,2,0.10,12.00,False,STORE-021

@@ -1,0 +1,27 @@
+order_date,sales,product,region,category,customer
+2024-01-15,1250.50,Laptop Pro,North,Electronics,Alice
+2024-01-16,890.25,Office Chair,South,Furniture,Bob
+2024-01-17,2100.75,Desktop Computer,East,Electronics,Charlie
+2024-01-18,450.00,Desk Lamp,West,Furniture,Alice
+2024-01-19,1800.25,Gaming Monitor,North,Electronics,Bob
+2024-01-20,320.50,Phone Case,South,Accessories,Eve
+2024-01-21,1450.75,Wireless Headphones,East,Electronics,Frank
+2024-01-22,680.00,Standing Desk,West,Furniture,Alice
+2024-01-23,950.25,Tablet,North,Electronics,Bob
+2024-01-24,275.50,Mouse Pad,South,Accessories,Eve
+2024-01-25,3200.00,Workstation,East,Electronics,Charlie
+2024-01-26,540.75,Ergonomic Chair,West,Furniture,Frank
+2024-01-27,1150.50,Smartphone,North,Electronics,Alice
+2024-01-28,425.25,Keyboard,South,Electronics,Eve
+2024-01-29,1750.00,Monitor Stand,East,Furniture,Bob
+2024-01-30,380.50,USB Hub,West,Accessories,Frank
+2024-02-01,2250.75,Laptop Gaming,North,Electronics,Charlie
+2024-02-02,790.00,Filing Cabinet,South,Furniture,Alice
+2024-02-03,1340.25,Webcam,East,Electronics,Bob
+2024-02-04,520.50,Desk Organizer,West,Accessories,Eve
+2024-02-05,1680.75,Printer,North,Electronics,Frank
+2024-02-06,340.00,Cable Management,South,Accessories,Alice
+2024-02-07,2100.50,Server,East,Electronics,Charlie
+2024-02-08,850.25,Conference Chair,West,Furniture,Bob
+2024-02-09,1250.00,Projector,North,Electronics,Eve
+2024-02-10,420.75,Whiteboard,South,Furniture,Frank
